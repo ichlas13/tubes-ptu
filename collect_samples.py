@@ -3,7 +3,7 @@ from datetime import datetime
 
 import sounddevice as sd
 from scipy.io import wavfile
-//coba
+
 
 DATASET_PATH = "dataset"
 SAMPLE_RATE = 44100
