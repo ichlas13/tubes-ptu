@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+scipy
+joblib
+scikit-learn
+sounddevice
+pydub
+pygame
+edge-tts
